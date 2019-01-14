@@ -4,3 +4,4 @@ The [freeglut3-dev](https://packages.ubuntu.com/trusty/freeglut3-dev) package is
 
 **Screenshots**
 
+![alt text](solar.png)
